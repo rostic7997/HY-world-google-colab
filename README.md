@@ -13,7 +13,9 @@ git clone https://huggingface.co/spaces/prithivMLmods/HY-World-2.0-Demo
 cd HY-World-2.0-Demo
 ``
 # Создаем виртуальное окружение именно на базе Python 3.10
+``
 python3.10 -m venv venv310
+``
 
 # Активируем его
 ``
